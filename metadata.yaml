@@ -1,0 +1,40 @@
+_repo: Spies-of-the-Kaiser--Plotting-the-Downfall-of-England_33298
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: Le Queux was the first and most prolific of all British spy writers,
+  but Spies of the Kaiser was not just another tale of scheming foreigners and plucky
+  British heroes, for this paranoid tale of German secret agents plotting the invasion
+  of Britain played a major part in the formation of MI5, Britain's counter-espionage
+  organisation. In his introduction, intelligence historian Nicholas Hiley explains
+  how Le Queux's powerful blend of fact and fiction inspired a whole generation of
+  British secret service officers, and led MI5 in a nation-wide hunt for a non-existent
+  enemy.
+gutenberg_issued: '2010-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Intelligence service -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Invasions -- Fiction'
+- !lcsh 'Espionage, German -- Fiction'
+- !lcsh 'Spy stories'
+title: 'Spies of the Kaiser: Plotting the Downfall of England'
+url: http://www.gutenberg.org/ebooks/33298
